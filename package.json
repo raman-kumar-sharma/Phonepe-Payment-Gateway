@@ -1,0 +1,16 @@
+{
+  "name": "phonepe-payment-gateway",
+  "version": "1.0.0",
+  "description": "PhonePe Payment Gateway Integration: Seamless UPI, card, and wallet payments. Secure transactions, real-time notifications, and refund processing. Enhance user experience and expand payment options.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
